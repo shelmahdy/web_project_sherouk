@@ -1,13 +1,7 @@
 div#background
 {
 	background-color:#E5AE96;
-	font-family: 'Merriweather Sans',sans-serif;	
-	margin-top:40px
-}
-div#background2
-{
-	background-color:#E5AE96;
-	font-family: 'Merriweather Sans',sans-serif;	
+	font-family: 'Merriweather Sans',sans-serif;
 }
 
 h1#motivation
@@ -28,8 +22,3 @@ div#mission{
 	font-family: 'Merriweather Sans',sans-serif;
 
 }
- 
- .my-img {
-
-    margin-left: 150px;
- }
